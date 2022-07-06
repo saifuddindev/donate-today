@@ -66,19 +66,23 @@ hr {
     border-width: 1px;
 }
 
+.our-donate-plan {
+    display: flex;
+    margin-left: 13%;
+}
+
 .plan-text {
     text-align: center;
-    margin-bottom: 10px;
     margin-top: 13%;
     margin-bottom: 3%;
 }
 
 .column {
     float: left;
-    width: 31%;
-    padding: 80px 8px;
+    width: 25%;
+    padding: 30px 8px;
     margin: 12px;
-    height: 240px;
+    height: 500px;
     border-radius: 5px;
 }
 
@@ -115,7 +119,7 @@ h3 {
 }
 
 .subscribe {
-    margin-top: 43%;
+    margin-top: 60%;
     text-align: center;
     color: #333D41;
 }
@@ -150,7 +154,7 @@ h3 {
     background-color: #fff4d6;
     Padding: 40px 70px;
     position: absolute;
-    margin-left: 30%;
+    margin-left: 20%;
     border-radius: 10px;
 }
 
