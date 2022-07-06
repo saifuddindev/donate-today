@@ -80,3 +80,41 @@ hr {
     height: 200px;
     border-radius: 5px;
 }
+
+.non-profit {
+    text-align: center;
+    margin-top: 27%;
+}
+
+h2 {
+    font-size: 35px;
+}
+
+h3 {
+    font-size: 20px;
+}
+
+.non-profit-column {
+    float: left;
+    width: 25%;
+    padding: 80px 8px;
+    margin-left: 5%;
+    height: 200px;
+}
+
+.million {
+    font-size: 80px;
+    color: #333D41;
+}
+
+.million-bottom {
+    margin-bottom: 5%;
+    font-size: 22px;
+    color: #333D41;
+}
+
+.subscribe {
+    margin-top: 43%;
+    text-align: center;
+    color: #333D41;
+}
