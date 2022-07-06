@@ -118,3 +118,36 @@ h3 {
     text-align: center;
     color: #333D41;
 }
+
+.email-box {
+    height: 42px;
+    display: flex;
+    justify-content: center;
+    border-radius: 50px;
+}
+
+.mail-area {
+    width: 350px;
+    padding: 0 10px;
+    background: #d9d9d9;
+}
+
+.subscribe-button {
+    background: #ff5959;
+    padding: 0 40px;
+    color: white;
+}
+
+.mail-area,
+.subscribe-button {
+    border: none;
+    outline: none;
+    position: center;
+}
+
+.box {
+    background-color: #fff4d6;
+    Padding: 40px 70px;
+    position: absolute;
+    margin-left: 30%;
+}
