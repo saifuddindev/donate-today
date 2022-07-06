@@ -54,7 +54,7 @@ h1 {
 }
 
 .other-amount {
-    color: #707070;
+    color: #c0bfbf;
 }
 
 hr {
@@ -160,4 +160,8 @@ h3 {
     background-color: #0b0d17;
     padding: 10px 40px;
     color: #ff5959;
+}
+
+.last-text {
+    font-size: 30px;
 }
