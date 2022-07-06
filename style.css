@@ -69,5 +69,14 @@ hr {
 
 .plan-text {
     text-align: center;
-    position: absolute;
+    margin-bottom: 10px;
+}
+
+.column {
+    float: left;
+    width: 31%;
+    padding: 80px 8px;
+    margin: 12px;
+    height: 200px;
+    border-radius: 5px;
 }
