@@ -150,4 +150,13 @@ h3 {
     Padding: 40px 70px;
     position: absolute;
     margin-left: 30%;
+    border-radius: 10px;
+}
+
+.foot-end {
+    margin-top: 20%;
+    text-align: center;
+    background-color: #0b0d17;
+    padding: 10px 40px;
+    color: #ff5959;
 }
